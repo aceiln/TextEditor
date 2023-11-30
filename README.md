@@ -4,14 +4,7 @@
 
 ## Description
 
-This is a text editor that can be used online and offline. When the user enters text, the data is stored automatically and will persist. The user is able to download the application for offline use.
-
-Access the application here: https://danhalsim-text-editor-08dc2f937961.herokuapp.com/
-
-A screenshot of the application running:
-
-![screenshot](./Assets/screenshot.png)
-
+This is a text editor that can be used to store notes and anysort of text needed.
 
 ## Table of Contents
 
